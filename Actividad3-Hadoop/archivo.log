@@ -1,0 +1,3 @@
+wallet-rest-api [INFO] 2023-01-01 10:00:00 - Mensaje de información
+wallet-rest-api [SEVERE] 2023-01-01 10:01:00 - Mensaje de error
+wallet-rest-api [WARN] 2023-01-01 10:02:00 - Mensaje de advertencia

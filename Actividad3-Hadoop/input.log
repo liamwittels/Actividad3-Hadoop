@@ -1,0 +1,7 @@
+wallet-rest-api [INFO] - Inicio de la transacción: ID=12345
+wallet-rest-api [SEVERE] - Error al procesar la solicitud: ID=67890
+wallet-rest-api [WARN] - Advertencia: ID=54321
+wallet-rest-api [INFO] - Transacción completada con éxito: ID=12345
+wallet-rest-api [INFO] - Nueva solicitud recibida: ID=98765
+wallet-rest-api [SEVERE] - Fallo en la validación: ID=98765
+wallet-rest-api [WARN] - Tiempo de respuesta lento: ID=23456
